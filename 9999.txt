@@ -1,0 +1,8 @@
+        <ul style="height: 30px; margin-bottom: 0px;">
+            <li class="l_left total_chose_fr nav_active">首页展示</li>
+            <li class="l_left total_chose_pl">检测统计分析</li>
+            <li class="l_left total_chose_pl">异常数据分析</li>
+            <li class="r_right total_chose_pl">相关其他分析</li>
+            <li class="r_right total_chose_pl">数据排名分析</li>
+            <li class="r_right total_chose_pl">数据预警分析</li>
+        </ul>
